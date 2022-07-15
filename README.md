@@ -1,5 +1,4 @@
-<img src="screenshoot.gif" width="1024" height="768">
+Please review [changelog](https://github.com/xvenux/xvenux/blob/main/CHANGELOG.md) for latest updates 
 ---
-**Legend:**
+<img src="screenshoot.gif" width="800" height="800">
 
-[Changelog](https://github.com/xvenux/xvenux/blob/main/CHANGELOG.md)
